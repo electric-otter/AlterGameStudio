@@ -16,3 +16,4 @@ Alter Game Studio is an open-sourced game development framework created as a for
 ### Requirements
 
 - .NET Core 5 or later
+- Hoppity 1.0.0 or later
