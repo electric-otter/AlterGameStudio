@@ -1,19 +1,15 @@
 # Alter Game Studio
 
-Alter Game Studio is an open-sourced game development framework created as a fork of XNA Game Studio. It aims to simplify the game development process by offering a powerful yet easy-to-use toolset for creating games across multiple platforms.
+> Please consider supporting the project by contributing :')
 
-## Features
+The XNA Game Studio archive contains all of the content (over 100 articles, samples and more) from the now retired XNA Educational Library, broken up in to several distinct sections:
 
-- **Cross-Platform Support**: Develop games for Windows, Linux, and macOS with ease.
-- **Open Source**: Fully open-sourced under the MIT License, allowing you to modify and contribute.
-- **Simple and Intuitive API**: Easy-to-understand API to facilitate fast game development.
-- **Rendering Engine**: Built-in 2D and 3D rendering engine to create visually rich games.
-- **Asset Management**: Efficient handling of game assets, including textures, models, sounds, and more.
-- **Extensive Documentation**: Guides, tutorials, and example projects to help you get started quickly.
-
-## Installation
-
-### Requirements
-
-- .NET Core 5 or later
-- Hoppity 1.0.0 or later
+* Complete solutions
+* Shaders and effects
+* Physics and AI
+* Content Pipeline
+* Networking samples
+* Misc Tools / Audio and Assets
+* Assorted documentation
+* Avatar samples
+* Archived (pre XNA 4.0) samples
