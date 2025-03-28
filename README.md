@@ -1,6 +1,6 @@
-# XNA Game Studio Archive
+# Alter Game Studio
 
-> Please consider sponsoring the XNA Game Studio archive using the Github Sponsor button above, we welcome any support.
+> Please consider supporting the project by contributing :')
 
 ![XNA Game Studio](https://github.com/simondarksidej/XNAGameStudio/blob/master/Images/xna_game_studio_logo.jpg?raw=true)
 
