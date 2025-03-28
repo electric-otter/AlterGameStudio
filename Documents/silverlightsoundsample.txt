@@ -1,1 +1,0 @@
-The Silverlight Sound Sample is available for download at http://go.microsoft.com/fwlink/?LinkID=207868.
