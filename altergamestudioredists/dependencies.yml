@@ -1,0 +1,13 @@
+name: Alter Game Studio
+version: 1.0.0
+dependencies:
+  - name: .NET
+    version: 7.0
+    description: ".NET is used for some dependencies in Alter Game Studio, Like Hoppity"
+    platform: any
+    url: https://dotnet.microsoft.com/download
+  - name: Hoppity
+    version: 1.0
+    description: "Hoppity is a custom framework."
+    platform: any
+    url: https://gitlab.com/kryptonitewing/hoppity
